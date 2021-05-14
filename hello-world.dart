@@ -1,5 +1,5 @@
 import 'dart:wasm';
 
-Void main() {
+void main() {
   print('Hello world!');
 }
